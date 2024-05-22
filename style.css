@@ -42,17 +42,17 @@ body {
   color: black;
 }
 #page-1 {
-  background: url(altai.webp) no-repeat center center;
+  background: url(altai.webp) no-repeat center center/cover;
 }
 #page-2 {
-  background: url(horgiin\ togoo.jpg) no-repeat center center;
+  background: url(horgiin\ togoo.jpg) no-repeat center center/cover;
 }
 #page-3 {
-  background: url(khokh_nuur.jpg) no-repeat center center;
+  background: url(khokh_nuur.jpg) no-repeat center center/cover;
 }
 #page-4 {
-  background: url(Өгий_нуур_-_Ugii_lake.jpg) no-repeat center center;
+  background: url(Өгий_нуур_-_Ugii_lake.jpg) no-repeat center center/cover;
 }
 #page-5 {
-  background: url(Lake-Khuvsgul.jpg) no-repeat center center;
+  background: url(Lake-Khuvsgul.jpg) no-repeat center center/cover;
 }
